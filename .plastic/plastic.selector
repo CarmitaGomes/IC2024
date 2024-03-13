@@ -1,0 +1,4 @@
+repository "IC2024@crmngms@cloud"
+  path "/"
+    br "/main"
+    co "/main"
